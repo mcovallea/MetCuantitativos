@@ -24,13 +24,11 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[Pierre Bourdieu: El campo científico](unidad1/1elcampocientifico.PDF)
+[Pierre Bourdieu: El campo científico](1elcampocientifico.pdf) 
 
+[João Arriscado Nunes: El rescate de la epistemología](2elrescatedelaepistemologia.pdf)
 
-
-[João Arriscado Nunes: El rescate de la epistemología](unidad1/2elrescatedelaepistemologia.pdf)
-
-[Isadore Newman, Carolyn Benz: Quantitative-Qualitative Research Methodology](unidad1/3quantitativequalitativeresearchmethodology.pdf)
+[Isadore Newman, Carolyn Benz: Quantitative-Qualitative Research Methodology](3quantitativequalitativeresearchmethodology.pdf)
 
 
 
