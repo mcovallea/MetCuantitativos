@@ -24,5 +24,7 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[El rescate de la epitemologia](unidad1\1.1 Bourdieu. El campo científico..pdf)
+[El rescate de la epitemologia](unidad1/1.1 Bourdieu. El campo científico..pdf)
+
+
 
