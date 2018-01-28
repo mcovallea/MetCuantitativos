@@ -24,7 +24,11 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[El campo científico](unidad1/1elcampocientifico.pdf)
+[El campo científico](MetCuantitativos/unidad1/1elcampocientifico.pdf)
+
+
+
+
 
 
 
