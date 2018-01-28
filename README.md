@@ -35,10 +35,10 @@ Por cada unidad se realizará un ejercicio de aplicación, que puede consistir e
 | Unidades                                 | Contenidos                               |
 | ---------------------------------------- | ---------------------------------------- |
 | [1. La naturaleza del conocimiento científico en las ciencias sociales y en la ciencia política.](unidad1/README.md) | Paradigma cualitativo, paradigma cuantitativo, criterios de validación del conocimiento en investigación cuantitativa (demostrabilidad empírica, replicabilidad, objetividad, publicidad, falsabilidad, consistencia lógica, validez interna, validez externa). |
-| 2. Conceptos fundamentales de la investigación cuantitativa. | Conceptos fundamentales de la investigación cuantitativa: teoría, hipótesis, variables, operacionalización y medición. |
-| 3. Tipos de diseños de investigación en el paradigma cuantitativo. | Tipos de diseños de investigación en el paradigma cuantitativo: diseños experimentales, diseños cuasiexperimentales, diseños correlacionales y estudios de caso. |
-| 4. Técnicas de investigación cuantitativa. | Encuesta, test, escala, entrevista estructurada, análisis de contenido. |
-| 5. Problemas éticos.                     | Condiciones para la replicabilidad, manejo de los datos, principios éticos (respeto, beneficio y justicia), fraude, plagio, conflictos de interés, *harking*, *p-harking*, *cherry-picking* y omisión selectiva, revisión por pares. |
+| [2. Conceptos fundamentales de la investigación cuantitativa.](unidad2/README.md) | Conceptos fundamentales de la investigación cuantitativa: teoría, hipótesis, variables, operacionalización y medición. |
+| [3. Tipos de diseños de investigación en el paradigma cuantitativo.](unidad3/README.md) | Tipos de diseños de investigación en el paradigma cuantitativo: diseños experimentales, diseños cuasiexperimentales, diseños correlacionales y estudios de caso. |
+| [4. Técnicas de investigación cuantitativa.](unidad4/README.md) | Encuesta, test, escala, entrevista estructurada, análisis de contenido. |
+| [5. Problemas éticos.](unidad5/README.md) | Condiciones para la replicabilidad, manejo de los datos, principios éticos (respeto, beneficio y justicia), fraude, plagio, conflictos de interés, *harking*, *p-harking*, *cherry-picking* y omisión selectiva, revisión por pares. |
 
 
 
