@@ -24,7 +24,9 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[Pierre Bourdieu: El campo científico](unidad1/1elcampocientifico.pdf)
+[Pierre Bourdieu: El campo científico](unidad1/1elcampocientifico)
+
+
 
 [João Arriscado Nunes: El rescate de la epistemología](unidad1/2elrescatedelaepistemologia.pdf)
 
