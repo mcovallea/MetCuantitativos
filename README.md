@@ -34,7 +34,7 @@ Por cada unidad se realizará un ejercicio de aplicación, que puede consistir e
 
 | Unidades                                 | Contenidos                               |
 | ---------------------------------------- | ---------------------------------------- |
-| [1. La naturaleza del conocimiento científico en las ciencias sociales y en la ciencia política.](unidad1/README.md) | Paradigma cualitativo, paradigma cuantitativo, criterios de validación del conocimiento en investigación cuantitativa (demostrabilidad empírica, replicabilidad, objetividad, publicidad, falsabilidad, consistencia lógica, validez interna, validez externa). |
+| [1. La naturaleza del conocimiento científico en las ciencias sociales y en la ciencia política.](unidad1\unit1.md) | Paradigma cualitativo, paradigma cuantitativo, criterios de validación del conocimiento en investigación cuantitativa (demostrabilidad empírica, replicabilidad, objetividad, publicidad, falsabilidad, consistencia lógica, validez interna, validez externa). |
 | 2. Conceptos fundamentales de la investigación cuantitativa. | Conceptos fundamentales de la investigación cuantitativa: teoría, hipótesis, variables, operacionalización y medición. |
 | 3. Tipos de diseños de investigación en el paradigma cuantitativo. | Tipos de diseños de investigación en el paradigma cuantitativo: diseños experimentales, diseños cuasiexperimentales, diseños correlacionales y estudios de caso. |
 | 4. Técnicas de investigación cuantitativa. | Encuesta, test, escala, entrevista estructurada, análisis de contenido. |
