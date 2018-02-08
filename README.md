@@ -28,7 +28,7 @@ Cuatro tipos de actividades permitirán el abordaje de los objetivos propuestos:
 
 ## Estrategias de evaluación
 
-Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 5 ejercicios constituirá el 70% de la calificación final. El restante 30% estará dado por el promedio de las notas obtenidas en dos evaluaciones parciales escritas en las que se evaluarán de forma acumulativa los contenidos de la asignatura: una a realizarse en la semana 8 y otra en la semana 16.
+Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 5 ejercicios constituirá el 70% de la calificación final. El restante 30% estará dado por el promedio de las notas obtenidas en dos exámenes parciales escritos en los que se evaluarán de forma acumulativa los contenidos de la asignatura: uno a realizarse en la semana 8 y otro en la semana 16.
 
 ## Contenidos
 
