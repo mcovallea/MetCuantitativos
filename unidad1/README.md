@@ -24,7 +24,25 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[Pierre Bourdieu: El campo científico] (MetCuantitativos/unidad1/1elcampocientifico.pdf)
+[Pierre Bourdieu: El campo científico](MetCuantitativos/unidad1/1elcampocientifico.pdf)
+
+[João Arriscado Nunes: El rescate de la epistemología](MetCuantitativos/unidad1/2elrescatedelaepistemolgia.pdf)
+
+[João Arriscado Nunes: O resgate da epistemologia - Português](MetCuantitativos/unidad1/2oresgatedaepistemologia.pdf)
+
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulos 1 y 2](MetCuantitativos/unidad1/3investigacióncuantitativa-cualitativa_cap1y2.pdf)
+
+[Isadore Newman & Caroline Benz: Quantitative-qualitative research methogology. Exploring the interactive continuum - English](MetCuantitativos/unidad1/3quantitative-qualitativeresearchmethodology_fulltext.pdf)
+
+[AnneMarie Zand Scholten: Investigación cuantitativa. Módulo 2: El método científico](MetCuantitativos/unidad1/4métodocientífico_módulo2.pdf)
+
+[AnneMarieZand Scholten: Quantitative research. Module 2: Scientific method - English](MetCuantitativos/unidad1/4scientificmethod_module2.pdf)
+
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](MetCuantitativos/unidad1/5investigacióncuantitativa-cualitativa_cap3.pdf)
+
+
+
+
 
 
 
