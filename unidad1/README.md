@@ -14,21 +14,21 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[Pierre Bourdieu: El campo científico](unidad1/1elcampocientifico.pdf)
+[Pierre Bourdieu: El campo científico](1elcampocientifico.pdf)
 
-[João Arriscado Nunes: El rescate de la epistemología](unidad1/2elrescatedelaepistemolgia.pdf)
+[João Arriscado Nunes: El rescate de la epistemología](2elrescatedelaepistemolgia.pdf)
 
-[João Arriscado Nunes: O resgate da epistemologia - Português](unidad1/2oresgatedaepistemologia.pdf)
+[João Arriscado Nunes: O resgate da epistemologia - Português](2oresgatedaepistemologia.pdf)
 
-[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulos 1 y 2](unidad1/3investigacióncuantitativa-cualitativa_cap1y2.pdf)
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulos 1 y 2](3investigacióncuantitativa-cualitativa_cap1y2.pdf)
 
-[Isadore Newman & Caroline Benz: Quantitative-qualitative research methogology. Exploring the interactive continuum - English](unidad1/3quantitative-qualitativeresearchmethodology_fulltext.pdf)
+[Isadore Newman & Caroline Benz: Quantitative-qualitative research methogology. Exploring the interactive continuum - English](3quantitative-qualitativeresearchmethodology_fulltext.pdf)
 
-[AnneMarie Zand Scholten: Investigación cuantitativa. Módulo 2: El método científico](unidad1/4métodocientífico_módulo2.pdf)
+[AnneMarie Zand Scholten: Investigación cuantitativa. Módulo 2: El método científico](4métodocientífico_módulo2.pdf)
 
-[AnneMarieZand Scholten: Quantitative research. Module 2: Scientific method - English](unidad1/4scientificmethod_module2.pdf)
+[AnneMarieZand Scholten: Quantitative research. Module 2: Scientific method - English](4scientificmethod_module2.pdf)
 
-[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](unidad1/5investigacióncuantitativa-cualitativa_cap3.pdf)
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](5investigacióncuantitativa-cualitativa_cap3.pdf)
 
 
 
