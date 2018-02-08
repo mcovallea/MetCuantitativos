@@ -38,7 +38,7 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 [AnneMarieZand Scholten: Quantitative research. Module 2: Scientific method - English](MetCuantitativos/unidad1/4scientificmethod_module2.pdf)
 
-[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](MetCuantitativos/unidad1/5investigacióncuantitativa-cualitativa_cap3.pdf)
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](MetCuantitativos\unidad1\5investigacióncuantitativa-cualitativa_cap3.pdf)
 
 
 
