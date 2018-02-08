@@ -1,15 +1,5 @@
 # Asignatura Métodos Cuantitativos
 
-## **Bienvenidos** :books::blue_heart:
-
-**Semestre 2018A	| Código de Asignatura: 1101204**
-
-> Profesora: Maria Cristina Ovalle, PhD.
->
-> Salón: XXXXX				| Horario: dd/hh
->
-> Horas presenciales: 48	|Horas de trabajo independiente: 96			
-
 ## Unidad 1: La naturaleza del conocimiento científico en las ciencias sociales y en la ciencia política. 
 
 #### Preguntas orientadoras:
@@ -24,7 +14,7 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
-[Pierre Bourdieu: El campo científico](MetCuantitativos/unidad1/1elcampocientifico.pdf)
+[Pierre Bourdieu: El campo científico](unidad1/1elcampocientifico.pdf)
 
 [João Arriscado Nunes: El rescate de la epistemología](unidad1/2elrescatedelaepistemolgia.pdf)
 
