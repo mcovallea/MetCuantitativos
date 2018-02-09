@@ -1,15 +1,5 @@
 # Asignatura Métodos Cuantitativos
 
-## **Bienvenidos** :books::blue_heart:
-
-**Semestre 2018A	| Código de Asignatura: 1101204**
-
-> Profesora: Maria Cristina Ovalle, PhD.
->
-> Salón: XXXXX				| Horario: dd/hh
->
-> Horas presenciales: 48	|Horas de trabajo independiente: 96			
-
 ## Unidad 4: Técnicas de investigación cuantitativa 
 
 ## Preguntas orientadoras: 
