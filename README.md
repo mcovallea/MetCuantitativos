@@ -12,12 +12,6 @@
 
 
 
-### Documentos institucionales: 
-
-[Microcurrículo](MICROCURRÍCULO.pdf)
-
-[Acuerdo Pedagógico](ACUERDO.pdf)
-
 ## Generalidades
 
 Esta asignatura se propone motivar la reflexión sistemática sobre la naturaleza, pertinencia, límites y posibilidades de la investigación cuantitativa en las Ciencias Sociales en general y en la Ciencia Política en particular. Ello implica reconocer el sentido de la investigación cuantitativa, su alcance, los intereses que constituyen el conocimiento construido a través de métodos cuantitativos, los problemas de conocimiento que son compatibles con este paradigma y su relación con los abordajes cualitativos y mixtos. Se busca así que los y las estudiantes reconozcan la importancia de las herrramientas cuantitativas para el campo de conocimiento de la ciencia política y que logren situar dichas herramientas de forma crítica en el horizonte epistemológico de la disciplina y en los paradigmas de conocimiento que constituyen dicho horizonte.
