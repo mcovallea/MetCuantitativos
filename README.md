@@ -1,6 +1,6 @@
 # Asignatura Métodos Cuantitativos
 
-## **Bienvenidos** :books: :smiley:
+## ¡Bienvenidos! ¡Bienvenidas!
 
 **Semestre 2018A	| Código de Asignatura: 110011562**
 
