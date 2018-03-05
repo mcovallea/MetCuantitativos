@@ -14,7 +14,7 @@
 
 ### Documentos institucionales: 
 
-[Microcurrículo](MICROCURRÍCULO_ Métodos Cuantitativos.pdf)
+[Microcurrículo](MetCuantitativos/MICROCURRÍCULO_ Métodos Cuantitativos.pdf)
 
 [Acuerdo Pedagógico](ACUERDO PEDAGOGICO_Métodos Cuantitativos.pdf)
 
