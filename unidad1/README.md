@@ -36,6 +36,12 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 [Presentación 1 - Unidad 1](Presentación1.pdf) 
 
+### Documentos de la asignatura:
+
+[Microcurrículo](MICROCRR.pdf)
+
+[Acuerdo Pedagógico](ACUERDO.pdf)
+
 
 
 
