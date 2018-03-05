@@ -14,13 +14,15 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 #### Lecturas: 
 
+[Tim Minchin: No soy un premio Nobel](0nosoyunpremionobel.pdf)
+
 [Pierre Bourdieu: El campo científico](1elcampocientifico.pdf)
 
 [João Arriscado Nunes: El rescate de la epistemología](2elrescatedelaepistemolgia.pdf)
 
 [João Arriscado Nunes: O resgate da epistemologia - Português](2oresgatedaepistemologia.pdf)
 
-[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulos 1 y 2](3investigacióncuantitativa-cualitativa_cap1y2.pdf)
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulos 1 y 2](3metodologíadeinvestigacióncualitativa-cuantitativa_Caps1y2.pdf)
 
 [Isadore Newman & Caroline Benz: Quantitative-qualitative research methogology. Exploring the interactive continuum - English](3quantitative-qualitativeresearchmethodology_fulltext.pdf)
 
@@ -28,9 +30,11 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 [AnneMarieZand Scholten: Quantitative research. Module 2: Scientific method - English](4scientificmethod_module2.pdf)
 
-[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](5investigacióncuantitativa-cualitativa_cap3.pdf)
+[Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulo 3](5metodologíadeinvestigacióncualitativa-cuantitativa_Cap3.pdf)
 
+#### Presentación: 
 
+[Presentación 1 - Unidad 1](Presentación1.pdf) 
 
 
 
