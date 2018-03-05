@@ -14,7 +14,7 @@
 
 ### Documentos institucionales: 
 
-[Microcurrículo]([MetCuantitativos](https://github.com/mcovallea/MetCuantitativos)/**ACUERDO PEDAGOGICO_Métodos Cuantitativos.pdf**)
+[Microcurrículo](MICROCURRÍCULO_ Métodos Cuantitativos.pdf)
 
 [Acuerdo Pedagógico](ACUERDO PEDAGOGICO_Métodos Cuantitativos.pdf)
 
