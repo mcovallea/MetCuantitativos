@@ -22,6 +22,8 @@ Paradigma cualitativo, paradigma cuantitativo, criterios de validación del cono
 
 [João Arriscado Nunes: O resgate da epistemologia - Português](2oresgatedaepistemologia.pdf)
 
+[Maria Cristina Ovalle. Formación para la investigación en Ciencia Política](Formación para la investigación en Ciencia Política.pdf)
+
 [Isadore Newman & Caroline Benz: Metodología de investigación cuantitativa-cualitativa. Explorando el continuum interactivo - Capítulos 1 y 2](3metodologíadeinvestigacióncualitativa-cuantitativa_Caps1y2.pdf)
 
 [Isadore Newman & Caroline Benz: Quantitative-qualitative research methogology. Exploring the interactive continuum - English](3quantitative-qualitativeresearchmethodology_fulltext.pdf)
