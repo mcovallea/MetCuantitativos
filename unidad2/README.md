@@ -28,7 +28,9 @@ Conceptos básicos: teoría, hipótesis, variables, operacionalización y medici
 
 [Oskarsson et al.: Linking genes and political orientations: testing the cognitive hability as a mediator hyothesis](4linkinggenesandpoliticalorientations.pdf)
 
+#### Talleres: 
 
+[Taller 1 -Unidad 2](Taller 1 Unidad 2.pdf)
 
 
 
