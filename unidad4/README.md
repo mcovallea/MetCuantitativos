@@ -15,6 +15,12 @@ Diseños experimentales, diseños cuasiexperimentales, diseños correlacionales 
 
 [Presentación 2](Algunas técnicas de medición estadística.pdf)
 
+#### Actividad 13 de junio - Infostat
+
+[Ejercicio](Ejercicio infostat.pdf)
+
+
+
 
 
 
