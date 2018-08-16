@@ -2,11 +2,11 @@
 
 ## ¡Bienvenidos! ¡Bienvenidas!
 
-**Semestre 2018A	| Código de Asignatura: 110011562**
+**Semestre 2018B	| Código de Asignatura: 11011562**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
-> Salón: 32-204| Horario: Martes, 15:00-18:00
+> Salón: Auditorio FCHA| Horario: Jueves, 09:00-12:00
 >
 > Horas presenciales: 48	|Horas de trabajo independiente: 96			
 
@@ -30,11 +30,11 @@ Cuatro tipos de actividades permitirán el abordaje de los objetivos propuestos:
 
 ## Estrategias de evaluación
 
-Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 5 ejercicios constituirá el 70% de la calificación final. El restante 30% estará dado por el promedio de las notas obtenidas en dos exámenes parciales escritos en los que se evaluarán de forma acumulativa los contenidos de la asignatura: uno a realizarse en la semana 8 y otro en la semana 16.
+Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 5 ejercicios se promediará, a su vez, con la nota obtenida en la evaluación final. 
 
-## Contenidos
+### **Contenidos**
 
-| Unidades                                 | Contenidos                               |
+| ****Unidades                             | Contenidos                               |
 | ---------------------------------------- | ---------------------------------------- |
 | [1. La naturaleza del conocimiento científico en las ciencias sociales y en la ciencia política.](unidad1/README.md) | Paradigma cualitativo, paradigma cuantitativo, criterios de validación del conocimiento en investigación cuantitativa (demostrabilidad empírica, replicabilidad, objetividad, publicidad, falsabilidad, consistencia lógica, validez interna, validez externa). |
 | [2. Conceptos fundamentales de la investigación cuantitativa.](unidad2/README.md) | Conceptos fundamentales de la investigación cuantitativa: teoría, hipótesis, variables, operacionalización y medición. |
