@@ -56,7 +56,9 @@ La interacción dentro del aula debe estarcaracterizada por el uso respetuoso de
 
 Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, así comolos comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa. 
 
-## 
+## [Acuerdos para la finalización del curso](Acuerdos para la finalización del semestre.pdf)
+
+
 
 
 
