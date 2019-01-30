@@ -11,7 +11,13 @@
 
 Diseños experimentales, diseños cuasiexperimentales, diseños correlacionales y estudios de caso. 
 
-#### Lecturas: 
+#### Lectura:  
+
+[Investigación cuantitativa en Ciencias Sociales - Guillermo Briones](metodologia-de-la-investigacion-guillermo-briones.pdf)
+
+
+
+
 
 
 
