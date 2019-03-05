@@ -1,23 +1,20 @@
 # Asignatura Métodos Cuantitativos
 
-## Unidad 3: Tipos de diseños de investigación en el paradigma cuantitativo 
+## Unidad 4: Técnicas de investigación cuantitativa 
 
-#### Preguntas orientadoras:
+## Preguntas orientadoras: 
 
-1. ¿Cuáles son las principales características, alcance y limitaciones de los diseños experimentales, cuasiexperimentales, correlaciones y de los estudios de caso?
-2. ¿Qué tipos de problemas de conocimiento en ciencia política pueden ser abordados con cada uno de esos diseños?
+1. ¿Cuáles son las principales técnicas de investigación cuantitativa y cuáles las herramientas estadísticas para su desarrollo?
+2. ¿Qué tipos de problemas de investigación pueden ser desarrollados a través de cada una de esas técnicas?
+3. ¿Cuáles son las limitaciones de cada una y cómo pueden los métodos cualitativos contribuir para superar esas limitaciones?
 
 #### Contenidos:
 
-Diseños experimentales, diseños cuasiexperimentales, diseños correlacionales y estudios de caso. 
+Técnicas de investigación cuantitativa: encuesta, test, escala, entrevista estructurada, análisis de contenido. 
 
-#### Presentación + Ejercicios: 
+#### Trabajo final: 
 
-[Presentación 2](Algunas técnicas de medición estadística.pdf)
-
-#### Actividad 13 de junio - Infostat
-
-[Ejercicio](Ejercicio infostat.pdf)
+[Trabajo final](trabajo final métodos 2018B.pdf)
 
 
 
