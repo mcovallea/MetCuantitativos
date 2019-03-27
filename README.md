@@ -2,11 +2,11 @@
 
 ## ¡Bienvenidos! ¡Bienvenidas!
 
-**Semestre 2018B	| Código de Asignatura: 11011562**
+**Semestre 2019A	| Código de Asignatura: 11011562**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
-> Salón: Auditorio FCHA| Horario: Jueves, 09:00-12:00
+> Salón: 33-209| Horario: Jueves, 08:00-11:00
 >
 > Horas presenciales: 48	|Horas de trabajo independiente: 96			
 
