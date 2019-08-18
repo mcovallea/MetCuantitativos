@@ -2,7 +2,7 @@
 
 ## ¡Bienvenidos! ¡Bienvenidas!
 
-**Semestre 2019A	| Código de Asignatura: 11011562**
+**Semestre 2019B	| Código de Asignatura: 11011562**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
@@ -44,21 +44,23 @@ Por cada unidad se realizará un ejercicio de aplicación, que puede consistir e
 
 ### Acuerdos para la convivencia: 
 
-La asistencia puntual a clases es fundamentalpara el éxito académico en esta asignatura. 
+La asistencia puntual a clases es fundamental para el éxito académico en esta asignatura. 
 
 En igual nivel de importancia se encuentran lalectura previa de los documentos asignados, la participación en clase y larealización de las actividades propuestas tanto durante las horas de trabajopresencial como durante las horas de trabajo independiente. 
 
-Las fechas de evaluaciones y entrega de lostrabajos serán concertadas con los y las participantes en las sesionespresenciales y deben ser respetadas. Las solicitudes de plazos o fechasextraordinarias de evaluación deben ser justificadas y la causa respaldada porsoportes. 
+Las fechas de evaluaciones y entrega de los trabajos serán concertadas con los y las participantes en las sesiones presenciales y deben ser respetadas. Las solicitudes de plazos o fechas extraordinarias de evaluación deben ser justificadas y la causa respaldada porsoportes. 
 
-El plagio y todas las formas de fraudeacadémico serán enérgicamente rechazados y tramitados según lo establecido enlas normas de la Universidad. Las actividades (talleres, ensayos, evaluacionesy todos los demás productos elaborados durante el curso de la asignatura) enlas cuales se detecte la presencia de plagio, fraude o cualquier otra prácticaque comprometa éticamente a su autor o autora, obtendrá una calificación de 0(cero). 
+Los resultados de las evaluaciones serán entregados en los ocho (8) días siguientes a la realización de las mismas. 
 
-La interacción dentro del aula debe estarcaracterizada por el uso respetuoso de la palabra y la expresión libre yautónoma de puntos de vista argumentados. 
+El plagio y todas las formas de fraude académico serán enérgicamente rechazados y tramitados según lo establecido en las normas de la Universidad. Las actividades (talleres, ensayos, evaluaciones y todos los demás productos elaborados durante el curso de la asignatura) en las cuales se detecte la presencia de plagio, fraude o cualquier otra práctica que comprometa éticamente a su autor o autora, obtendrá una calificación de cero (0). 
 
-Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, así comolos comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa. 
+La interacción dentro del aula debe estarcaracterizada por el uso respetuoso de la palabra y la expresión libre y autónoma de puntos de vista argumentados. 
 
-## [Consultar el microcurrículo](MICROC.pdf)
+Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, así como los comportamientos que atenten contra la dignidad, el buen nombre o la integridad mental o física de la comunidad educativa. 
 
-## [Consultar el acuerdo pedagógico](ACUERDO.pdf)
+[Consultar el microcurrículo](MICROC.pdf)
+
+[Consultar el acuerdo pedagógico](ACUERDO.pdf)
 
 
 
