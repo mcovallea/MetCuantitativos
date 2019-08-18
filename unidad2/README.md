@@ -1,36 +1,32 @@
 # Asignatura Métodos Cuantitativos
 
-## Unidad 2: Conceptos fundamentales de la investigación cuantitativa. 
+## Unidad 1: La naturaleza del conocimiento científico en las ciencias sociales y en la ciencia política. 
 
 #### Preguntas orientadoras:
 
-1. ¿Qué es una hipótesis, cuáles deben ser sus características y qué tipos de hipóstesis pueden ser formuladas en investigación cuantitativa en ciencia política?
-2. ¿Qué es una variable, qué tipos de variables existen y cómo pueden ser operacionalizadas?
-3. ¿De qué se trata la medición?
+1. ¿Qué elementos determinan el status de cientificidad del conocimiento que construyen las ciencias sociales en general y la ciencia política en particular?
+2. ¿ Cuáles son los principales paradigmas epistemológicos en las ciencias sociales?
+3. ¿Cuáles son los criterios de validación del conocimiento en la investigación cuantitativa?
 
 #### Contenidos:
 
-Conceptos básicos: teoría, hipótesis, variables, operacionalización y medición.
+Paradigma cualitativo, paradigma cuantitativo, criterios de validación del conocimiento en investigación cuantitativa (demostrabilidad empírica, replicabilidad, objetividad, publicidad, falsabilidad, consistencia lógica, validez interna, validez externa). 
 
 #### Lecturas: 
 
-[Anne Marie Zand Scholten: Métodos Cuantitativos - La medición](1medición.pdf)
+[Vasco,C. Sobre el debate recurrente entre lo cuantitivo y lo cualitativo en la investigación](1debatecuanticuali.pdf)
 
-[Anne Marie Zand Scholten: Quantitative Methods - Measurement](1measurement.pdf)
+[Newman & Benz. Metodología de investigación cualitativa-cuantitativa - Capítulos 1 y 2](2metodologiadeinvcuantcualcaps1y2.pdf)
 
-[Pablo Cazau: Introducción a la investigación en Ciencias Sociales](2. Cazau. Introducción a la investigación en ciencias sociales.pdf)
+[Newman & Benz. Metodología de investigación cualitativa-cuantitativa - Capítulo 3](3metodologiadeinvcuantcualcap3.pdf)
 
-[Moraes et al.: Calidad democrática, percepción de corrupción y confianza política en América Latina](3calidaddemocrática.pdf)
 
-[Moraes et al.: Qualidade democrática, perceção de corrupção e confianca política na América Latina](3qualidadedemocrática.pdf)
 
-[Oskarsson et al.: Vincular los genes y las orientaciones políticas. Probar la habilidad cognitiva como hipótesis mediadora](4vincularlosgenesalaorientaciónpolítica.pdf)
 
-[Oskarsson et al.: Linking genes and political orientations: testing the cognitive hability as a mediator hyothesis](4linkinggenesandpoliticalorientations.pdf)
 
-#### Talleres: 
 
-[Taller 1 -Unidad 2](Taller 1 Unidad 2.pdf)
+
+
 
 
 
