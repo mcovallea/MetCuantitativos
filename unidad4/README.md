@@ -12,9 +12,9 @@
 
 Técnicas de investigación cuantitativa: encuesta, test, escala, entrevista estructurada, análisis de contenido. 
 
-#### Trabajo final: 
+#### Lecturas: 
 
-[Trabajo final](trabajo final métodos 2018B.pdf)
+[Metodología de investigación - Guillermo Briones](metodologia-de-la-investigacion-guillermo-briones.pdf)
 
 
 
